@@ -3,4 +3,4 @@ n2=int(input("Enter second number:"))
 sum=n1+n2
 sub=n1-n2
 print("Sum is:",sum)
-print("Subtraction is:"sub)
+print("Subtraction is:",sub)
